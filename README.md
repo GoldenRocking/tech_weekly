@@ -15,3 +15,4 @@
 ### [第一期](https://github.com/GoldenRocking/tech_weekly/tree/master/第二期/第二期周报.md)
 
 * 一款记录跑步的App iOS完整实现
+* WWDC 2017 - Vision 图像识别框架的使用
