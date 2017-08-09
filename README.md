@@ -21,3 +21,15 @@
 * Block 是如何实现的？如何避免循环引用？
 * 58同城iOS 客户端视频的实现
 * [贝聊科技]iOS 代码架构（一）如何创建一个易复用的组件
+* iOS App 稳定性指标及监测
+
+### [第三期](https://github.com/GoldenRocking/tech_weekly/tree/master/第三期/第三期周报.md)、
+
+* 移动端实时音视频直播技术详解
+* 即时通讯音视频开发
+* iOS 代码规范
+* Effective Objective-C 2.0 无废话精简篇
+* 一篇文章拿下《Effective Objective-C 2.0编写高质量iOS与OS X代码的52个有效方法》
+* 深入解析 iOS 开源项目
+* iOS 如何获取设备的各种信息
+* iOS 音视频采集与编码
