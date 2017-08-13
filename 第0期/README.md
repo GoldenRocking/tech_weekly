@@ -1,7 +1,16 @@
 
-## 学习网站
+## 学习网站/资源
 
-#计算机
+# gitbooks
+### [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
+### [ios核心动画高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)
+### [编程之法：面试和算法心得](https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
+### [神经网络与深度学习](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
+###  [算法珠玑](https://www.gitbook.com/book/soulmachine/algorithm-essentials/details) 
+### [超智能体](https://www.gitbook.com/book/yjango/superorganism/details)
+
+
+# 计算机
 ### [收录比较实用的计算机相关技术书籍](https://github.com/EZLippi/practical-programming-books)
 ### [程序员的书籍资源](https://zhuanlan.zhihu.com/p/23857699)
 ### [手册网](http://www.shouce.ren/)
@@ -10,6 +19,7 @@
 
 # Android
 ### [Android开发技术周报](http://www.androidweekly.cn/)
+### [Android最全开发资源](http://www.jianshu.com/p/0c36302e0ed0)
 
 
 # iOS
@@ -26,7 +36,6 @@
 ### [Jesse Squires](https://www.jessesquires.com/)
 ### [APPCODA](http://www.appcoda.com/tutorials/ios/)
 ### [IOSCREATOR](https://www.ioscreator.com/)
-### [Android最全开发资源](http://www.jianshu.com/p/0c36302e0ed0)
 ### [MrPeak杂货铺](http://mrpeak.cn/iOS/)
 ### [iOS开源APP代码库](http://www.ioscodehub.com/)
 ### [Martiancraft](http://martiancraft.com/blog.html)
