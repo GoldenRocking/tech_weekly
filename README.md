@@ -1,7 +1,17 @@
 # tech_weekly
 
+### [第四期](https://github.com/GoldenRocking/tech_weekly/tree/master/第四期/第四期周报.md)
 
-### [第三期](https://github.com/GoldenRocking/tech_weekly/tree/master/第三期/第三期周报.md)、
+* iOS App Thinning 实践
+* 一次立竿见影的启动时间优化
+* AFNetworking的漂亮细节
+* 搜狐视频iOS团队Objective-C编码规范
+* Utf16字符串转变成Emoji表情
+* iOS开发超详细技能图谱
+* 阿里数据iOS端启动速度优化的一些经验
+
+
+### [第三期](https://github.com/GoldenRocking/tech_weekly/tree/master/第三期/第三期周报.md)
 
 * 移动端实时音视频直播技术详解
 * 即时通讯音视频开发
