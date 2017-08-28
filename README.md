@@ -1,5 +1,12 @@
 # tech_weekly
 
+### [第五期](https://github.com/GoldenRocking/tech_weekly/tree/master/第五期/第五期周报.md)
+
+* 今日头条iOS客户端启动速度优化
+* Masonry 源码分析
+* iOS小知识积累(长期更新)
+* 一步一步教你用WebSocket进行消息推送（iOS版本）
+
 ### [第四期](https://github.com/GoldenRocking/tech_weekly/tree/master/第四期/第四期周报.md)
 
 * iOS App Thinning 实践
