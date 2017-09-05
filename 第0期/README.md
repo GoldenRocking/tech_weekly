@@ -53,6 +53,7 @@
 ### [Swift Weekly Brief](https://swiftweekly.github.io/) 
 ### [NSHipster](http://nshipster.cn/) 
 ### [搜狐视频 iOS技术团队开源项目](https://github.com/SOHOVideo)
+### [https://blog.bobthedeveloper.io/](https://blog.bobthedeveloper.io/)
 
 # 前端
 ### [caibaojian](http://caibaojian.com/)

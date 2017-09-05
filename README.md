@@ -1,5 +1,16 @@
 # tech_weekly
 
+### [第六期](https://github.com/GoldenRocking/tech_weekly/tree/master/第六期/第六期周报.md)
+
+* 优酷播放按钮动画解析
+* 爱奇艺播放按钮动画解析
+* iOS UI工具集
+* UIDynamic物理引擎
+* iOS 强大的泛型
+* 《招聘一个靠谱的iOS》面试题参考答案
+*  iOS面试题
+* iOS 强大的泛型
+
 ### [第五期](https://github.com/GoldenRocking/tech_weekly/tree/master/第五期/第五期周报.md)
 
 * 今日头条iOS客户端启动速度优化
