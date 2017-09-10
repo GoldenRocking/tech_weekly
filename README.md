@@ -1,5 +1,15 @@
 # tech_weekly
 
+
+
+### [第七期](https://github.com/GoldenRocking/tech_weekly/tree/master/第七期/第七期周报.md)
+
+* 探寻iOS内存分配
+*  iOS 底层解析weak的实现原理
+* Objective-C 消息和转发机制
+* NSRunLoop 总结
+
+
 ### [第六期](https://github.com/GoldenRocking/tech_weekly/tree/master/第六期/第六期周报.md)
 
 * 优酷播放按钮动画解析
