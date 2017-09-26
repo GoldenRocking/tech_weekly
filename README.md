@@ -1,11 +1,24 @@
 # tech_weekly
 
 
+### [第八期](https://github.com/GoldenRocking/tech_weekly/tree/master/第八期/第八期周报.md)
+
+* 2017上半年技术文章集合—184篇文章分类汇总
+* 自上而下的学习路线: 软件工程师的机器学习
+* 你不知道的的 iOS 多线程
+* iOS 组件开发
+* 如何优雅地使用 KVO
+
+
+
+
+
+
 
 ### [第七期](https://github.com/GoldenRocking/tech_weekly/tree/master/第七期/第七期周报.md)
 
 * 探寻iOS内存分配
-*  iOS 底层解析weak的实现原理
+* iOS 底层解析weak的实现原理
 * Objective-C 消息和转发机制
 * NSRunLoop 总结
 
