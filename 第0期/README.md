@@ -16,6 +16,7 @@
 ### [手册网](http://www.shouce.ren/)
 ### [Meet-Weekly](https://github.com/matheusazzi/meet-weekly)
 ### [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+###  [顶尖技术团队的开源地址](https://github.com/niezhiyang/open_source_team)
 
 # Android
 ### [Android开发技术周报](http://www.androidweekly.cn/)
