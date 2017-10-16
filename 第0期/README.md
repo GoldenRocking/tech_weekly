@@ -55,6 +55,7 @@
 ### [NSHipster](http://nshipster.cn/) 
 ### [搜狐视频 iOS技术团队开源项目](https://github.com/SOHOVideo)
 ### [https://blog.bobthedeveloper.io/](https://blog.bobthedeveloper.io/)
+### [iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)
 
 # 前端
 ### [caibaojian](http://caibaojian.com/)
