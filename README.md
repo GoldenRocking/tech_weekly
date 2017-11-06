@@ -1,5 +1,10 @@
 # tech_weekly
 
+### [第十一期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十一期/第十一期周报.md)
+*  iOS block 机制
+*  深入理解Objective-C：KVC&KVO
+*  YYCache 设计思路
+
 ### [第十期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十期/第十期周报.md)
 
 *  Block作为属性、方法参数、返回值
