@@ -4,6 +4,7 @@
 *  iOS block 机制
 *  深入理解Objective-C：KVC&KVO
 *  YYCache 设计思路
+*  YYImage 设计思路，实现细节剖析
 
 ### [第十期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十期/第十期周报.md)
 
