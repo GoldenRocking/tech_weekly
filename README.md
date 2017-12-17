@@ -5,6 +5,8 @@
 *  深入理解Objective-C：KVC&KVO
 *  YYCache 设计思路
 *  YYImage 设计思路，实现细节剖析
+*  移动端图片格式调研
+*  iOS 处理图片的一些小 Tip
 
 ### [第十期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十期/第十期周报.md)
 
