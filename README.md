@@ -1,5 +1,9 @@
 # tech_weekly
 
+### [第十二期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十二期/第十二期周报.md)
+*  如何大幅度提高 Mac 开发效率
+*  13个 GCD 应用场景
+
 ### [第十一期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十一期/第十一期周报.md)
 *  iOS block 机制
 *  深入理解Objective-C：KVC&KVO
