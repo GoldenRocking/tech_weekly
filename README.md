@@ -1,8 +1,17 @@
 # tech_weekly
 
+### [第十三期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十三期/第十三期周报.md)
+*  一份值得珍藏的超级完整的人工智能学习书单
+*  iOS 知识小集
+*  Swift Tips 
+
+
+
 ### [第十二期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十二期/第十二期周报.md)
 *  如何大幅度提高 Mac 开发效率
 *  13个 GCD 应用场景
+*  Objective-C iOS 开发 创建 合成 一张LivePhoto
+*  如何去阅读开源代码
 
 ### [第十一期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十一期/第十一期周报.md)
 *  iOS block 机制
