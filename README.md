@@ -1,9 +1,16 @@
 # tech_weekly
 
+### [第十四期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十四期/第十四期周报.md)
+*  微信小程序开发资源汇总
+*  区块链(BlockChain)技术开发相关资料
+*  微信读书团队博客 
+
+
 ### [第十三期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十三期/第十三期周报.md)
 *  一份值得珍藏的超级完整的人工智能学习书单
 *  iOS 知识小集
 *  Swift Tips 
+*  中文 iOS/Mac 开发博客列表
 
 
 
