@@ -1,6 +1,13 @@
 # tech_weekly
 
+### [2020年9月第一周](https://github.com/GoldenRocking/tech_weekly/tree/master/2020.09.Week1/README.md)
+
+* Git Magic
+
+  
+
 ### [第十四期](https://github.com/GoldenRocking/tech_weekly/tree/master/第十四期/第十四期周报.md)
+
 *  微信小程序开发资源汇总
 *  区块链(BlockChain)技术开发相关资料
 *  微信读书团队博客 
