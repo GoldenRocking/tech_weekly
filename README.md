@@ -1,8 +1,18 @@
 # tech_weekly
 
-### [2020年9月第一周](https://github.com/GoldenRocking/tech_weekly/tree/master/2020.09.Week1/README.md)
+### [2020年9月](https://github.com/GoldenRocking/tech_weekly/tree/master/2020.09/README.md)
 
 * Git Magic
+
+* 微信互联网平民创业
+
+* LeetCodeAnimation
+
+* Analyze
+
+* Free-programming-books
+
+* 小浩算法
 
   
 
